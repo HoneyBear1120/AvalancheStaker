@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800px" height="791px" viewBox="0 0 1800 791" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M151.499848,464.29878 C138.331783,548.675007 164.333765,599.731917 229.505794,617.469512 C294.677823,635.207107 411.166702,616.060766 578.972431,560.030488" id="path-1"></path>
+        <filter x="-13.0%" y="-32.2%" width="126.6%" height="171.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="9.57317073" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9.57317073" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="14.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.2875   0 0 0 0 0.2875  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M808.932927,149.261087 C907.943747,248.673198 1006.86651,298.379254 1105.70122,298.379254 C1204.53593,298.379254 1303.45869,248.673198 1402.46951,149.261087" id="path-3"></path>
+        <filter x="-10.1%" y="-36.2%" width="120.2%" height="177.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="9.57317073" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9.57317073" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="14.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.2875   0 0 0 0 0.2875  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-9">
+            <ellipse id="椭圆形" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" cx="178.723404" cy="178.691831" rx="146.812835" ry="146.781262"></ellipse>
+            <path d="M178.723404,282.396912 C236.889564,282.396912 284.042553,235.252253 284.042553,177.096368" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743"></path>
+            <text id="5%" font-family="Helvetica-Bold, Helvetica" font-size="145.648954" font-weight="bold" fill="rgba(232,65,66,0.6)">
+                <tspan x="127.659574" y="227.151409">5</tspan>
+                <tspan x="208.662582" y="227.151409" font-size="85.0188729">%</tspan>
+            </text>
+            <text id="level-1" font-family="Helvetica" font-size="72.2546453" font-weight="normal" fill="rgba(232,65,66,0.6)">
+                <tspan x="73.4042553" y="437.954628">level 1</tspan>
+            </text>
+            <ellipse id="椭圆形" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" cx="791.489362" cy="513.739015" rx="146.812835" ry="146.781262"></ellipse>
+            <path d="M791.489362,617.444095 C849.655522,617.444095 896.808511,570.299436 896.808511,512.143552" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743"></path>
+            <path d="M686.170213,617.444095 C744.336373,617.444095 791.489362,570.299436 791.489362,512.143552" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743" transform="translate(738.829787, 564.793823) scale(-1, 1) translate(-738.829787, -564.793823) "></path>
+            <text id="3%" font-family="Helvetica-Bold, Helvetica" font-size="145.648954" font-weight="bold" fill="rgba(232,65,66,0.6)">
+                <tspan x="746.808511" y="562.198592">3</tspan>
+                <tspan x="827.811518" y="562.198592" font-size="85.0188729">%</tspan>
+            </text>
+            <text id="level-2" font-family="Helvetica" font-size="72.2546453" font-weight="normal" fill="rgba(232,65,66,0.6)">
+                <tspan x="686.077236" y="773.03252">level 2</tspan>
+            </text>
+            <circle id="椭圆形" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" cx="1621.05691" cy="306.341463" r="146.788618"></circle>
+            <path d="M1621.05691,410.050813 C1679.21519,410.050813 1726.36179,362.904213 1726.36179,304.745935" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743"></path>
+            <path d="M1515.75203,410.050813 C1573.91031,410.050813 1621.05691,362.904213 1621.05691,304.745935" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743" transform="translate(1568.404472, 357.398374) scale(-1, 1) translate(-1568.404472, -357.398374) "></path>
+            <path d="M1515.75203,304.745935 C1573.91031,304.745935 1621.05691,257.599335 1621.05691,199.441057" id="路径" stroke="rgba(232,65,66,0.6)" stroke-width="63.8211382" opacity="0.763603743" transform="translate(1568.404472, 252.093496) scale(-1, -1) translate(-1568.404472, -252.093496) "></path>
+            <text id="2%" font-family="Helvetica-Bold, Helvetica" font-size="145.648954" font-weight="bold" fill="rgba(232,65,66,0.6)">
+                <tspan x="1576.38211" y="354.800813">2</tspan>
+                <tspan x="1657.38512" y="354.800813" font-size="85.0188729">%</tspan>
+            </text>
+            <text id="level-3" font-family="Helvetica" font-size="72.2546453" font-weight="normal" fill="rgba(232,65,66,0.6)">
+                <tspan x="1515.75203" y="565.613821">level 3</tspan>
+            </text>
+            <g id="直线-4" stroke-linecap="round">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="rgba(232,65,66,0.6)" stroke-width="19.1463415" xlink:href="#path-1"></use>
+            </g>
+            <g id="直线-4" stroke-linecap="round" transform="translate(1105.701220, 223.820170) scale(1, -1) translate(-1105.701220, -223.820170) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use stroke="rgba(232,65,66,0.6)" stroke-width="19.1463415" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
